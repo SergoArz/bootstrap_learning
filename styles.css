@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+nav {
+  position: fixed;
+}
+.footer-component {
+  color: #D7D7D7;
+}
+.footer-component:hover {
+  color: #fff;
+}
+.vid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ps5-nkar {
+  width: 700px;
+  max-height:500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3px;
+}
+.space-letters {
+  letter-spacing: 2px;
+}
